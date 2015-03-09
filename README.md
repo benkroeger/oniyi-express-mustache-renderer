@@ -1,5 +1,3 @@
-#  [![Build Status](https://secure.travis-ci.org/benkroeger/oniyi-express-mustache-renderer.png?branch=master)](http://travis-ci.org/benkroeger/oniyi-express-mustache-renderer)
-
 > An express middleware that provides a renderer for mustache templates
 > Use this to provide different renderers per router (also allows you to structure your templates as sub-folders per router in Express)
 
