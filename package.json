@@ -1,6 +1,6 @@
 {
   "name": "oniyi-express-mustache-renderer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/oniyi-express-mustache-renderer.js",
   "description": "An express middleware that provides a renderer for mustache templates",
   "homepage": "https://github.com/benkroeger/oniyi-express-mustache-renderer",
